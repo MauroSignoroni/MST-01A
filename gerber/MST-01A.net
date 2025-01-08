@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/runner/work/uaefi/uaefi/uaefi.kicad_sch</source>
-    <date>2025-01-01T00:24:34+0000</date>
-    <tool>Eeschema 8.0.7-8.0.7-0~ubuntu24.04.1</tool>
+    <source>/home/runner/work/MST-01A/MST-01A/MST-01A.kicad_sch</source>
+    <date>2025-01-08T12:51:52+0000</date>
+    <tool>Eeschema 8.0.7-8.0.7-0~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>UAEFI</title>
         <company>rusEFI.com</company>
         <rev>D</rev>
         <date>2024-08-15</date>
-        <source>uaefi.kicad_sch</source>
+        <source>MST-01A.kicad_sch</source>
         <comment number="1" value="https://rusefi.com/s/uaefi"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -180,7 +180,7 @@
       <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
       <property name="LCSC" value="C70381"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="battery cell"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>86849f55-930f-45f2-b6b9-87cc6f281902</tstamps>
@@ -197,7 +197,7 @@
       <libsource lib="hellen-one-common" part="Cap" description="Capacitor"/>
       <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00205241-ffbf-4f66-bd75-bb0b700b5abe</tstamps>
     </comp>
@@ -213,7 +213,7 @@
       <libsource lib="hellen-one-common" part="1N4148WS" description=""/>
       <property name="LCSC" value="C2128"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d2d0ddab-394d-4518-842c-8b524c34d922</tstamps>
     </comp>
@@ -229,7 +229,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>21bac282-060d-41b3-8302-c88e5e1e92fa</tstamps>
     </comp>
@@ -245,7 +245,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>63098b8c-34dd-41dd-88f1-d36392860750</tstamps>
     </comp>
@@ -261,7 +261,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>14dd76f6-a548-4452-bc3d-75c7acd25f2a</tstamps>
     </comp>
@@ -277,7 +277,7 @@
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4014f889-f7f7-4f3f-86fe-51a46b440971</tstamps>
     </comp>
@@ -291,7 +291,7 @@
       </fields>
       <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5410bd99-793b-410c-843c-7fecab530dce</tstamps>
     </comp>
@@ -305,7 +305,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="LOGO" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4347b078-82b3-42ff-9148-446a131054dd</tstamps>
     </comp>
@@ -319,7 +319,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2866e143-f2a5-470d-8f86-9d7943f95206</tstamps>
     </comp>
@@ -333,7 +333,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="PROTO_AREA" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0bd0e605-7e97-4790-b74e-fd4c35fadd99</tstamps>
     </comp>
@@ -347,7 +347,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -363,7 +363,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -379,7 +379,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -395,7 +395,7 @@
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="mounting hole"/>
       <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -411,7 +411,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -429,7 +429,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x10_Top_Bottom" description="Generic connector, double row, 02x10, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C485578"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -447,7 +447,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x03_Top_Bottom" description="Generic connector, double row, 02x03, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C293509"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -465,7 +465,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x04_Top_Bottom" description="Generic connector, double row, 02x04, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C490533"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -483,7 +483,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x09_Top_Bottom" description="Generic connector, double row, 02x09, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C240834"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -501,7 +501,7 @@
       <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C37208"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -517,7 +517,7 @@
       </fields>
       <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -537,7 +537,7 @@
       <property name="LCSC" value=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector USB mini"/>
       <property name="ki_fp_filters" value="USB*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -556,7 +556,7 @@
       <libsource lib="misc" part="USB_C" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="LCSC" value="C2927038"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="usb universal serial bus type-C USB2.0"/>
       <property name="ki_fp_filters" value="USB*C*Receptacle*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -574,7 +574,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x08_Top_Bottom" description="Generic connector, double row, 02x08, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value="C485577"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -590,7 +590,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -606,7 +606,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -622,7 +622,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -638,7 +638,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -654,7 +654,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -670,7 +670,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -686,7 +686,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -702,7 +702,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -718,7 +718,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -734,7 +734,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -750,7 +750,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -766,7 +766,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -782,7 +782,7 @@
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -798,7 +798,7 @@
       </fields>
       <libsource lib="hellen-one-power_12and5V" part="Module-power_12and5V-0.2" description="Hellen-One Power_12and5V Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fc171e8d-961b-4499-baee-dd5ea13a9968</tstamps>
     </comp>
@@ -812,7 +812,7 @@
       </fields>
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3b79a16e-5552-4c71-b880-ab92f2ee80d5</tstamps>
     </comp>
@@ -826,7 +826,7 @@
       </fields>
       <libsource lib="hellen-one-vr-discrete-0.5" part="Module-vr-discrete-0.5" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>731a0a61-da34-4323-985d-e9d0afd49655</tstamps>
     </comp>
@@ -840,7 +840,7 @@
       </fields>
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2daae34b-9306-4736-8f6d-3e5b5818b32e</tstamps>
     </comp>
@@ -854,7 +854,7 @@
       </fields>
       <libsource lib="hellen-one-wbo-0.5" part="Module-wbo-0.5" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7bd3e2b2-1d2d-4d27-ae40-93a1cb2e73e4</tstamps>
     </comp>
@@ -888,7 +888,7 @@
       <property name="SUPPLIER PART NUMBER 3" value=""/>
       <property name="TYPE" value="Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU100_0.1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4a3a80c0-5ff2-431a-af30-5d326e11bdc6</tstamps>
@@ -903,7 +903,7 @@
       </fields>
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9217789a-2280-4fd8-bd3a-46478a9cc961</tstamps>
     </comp>
@@ -917,7 +917,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -933,7 +933,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -949,7 +949,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -965,7 +965,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -981,7 +981,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -997,7 +997,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1013,7 +1013,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1029,7 +1029,7 @@
       </fields>
       <libsource lib="hellen-one-common" part="Pad" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1049,7 +1049,7 @@
       <property name="LCSC" value=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cf5e44dc-f2f2-420a-a344-a39b21d6ffb4</tstamps>
     </comp>
@@ -1065,7 +1065,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C4216"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4b32aa94-5411-45c5-9514-cc120e323151</tstamps>
     </comp>
@@ -1081,7 +1081,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23212"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>894cce04-1359-4801-8cdf-da23aeed7250</tstamps>
     </comp>
@@ -1097,7 +1097,7 @@
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1b4123e5-2c6c-405d-b04f-fd27f68ef7bf</tstamps>
     </comp>
@@ -1115,7 +1115,7 @@
       <property name="LCSC" value=""/>
       <property name="MyComment" value="DNP"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8220251e-60b3-45ef-9d1e-f484711a91f3</tstamps>
     </comp>
@@ -1131,7 +1131,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21189"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>55c70c59-b360-4ac6-84b8-034f63dee807</tstamps>
     </comp>
@@ -1147,7 +1147,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23189"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>27c44518-6719-4e5a-b586-d3d57e38ca89</tstamps>
     </comp>
@@ -1163,7 +1163,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23189"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6315cb8-4e19-4b1e-bc04-c50f5c8a7966</tstamps>
     </comp>
@@ -1179,7 +1179,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>45753884-ffca-4882-83aa-f19d1993d996</tstamps>
     </comp>
@@ -1195,7 +1195,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f58c3361-5b5b-43f8-a2ff-5dd0c7a3343f</tstamps>
     </comp>
@@ -1211,7 +1211,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2bf03350-ae97-4dad-ab2e-783ee3977d4c</tstamps>
     </comp>
@@ -1227,7 +1227,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fad9d3b2-2680-49a5-a37c-068e70812097</tstamps>
     </comp>
@@ -1243,7 +1243,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f7769ca0-70ab-4293-9f54-745ada1ffaf8</tstamps>
     </comp>
@@ -1259,7 +1259,7 @@
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea318b7e-3858-47d1-a628-a4bdddb5052f</tstamps>
     </comp>
@@ -1282,7 +1282,7 @@
       <property name="MF" value="HuiCheng"/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="Sheetfile" value="MST-01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6bcdcd79-ba5e-438e-9c82-0de226b64e46</tstamps>
     </comp>
@@ -3637,43 +3637,43 @@
   </libparts>
   <libraries>
     <library logical="JDY-33">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/JDY-33.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/kicad6-libraries/JDY-33.kicad_sym</uri>
     </library>
     <library logical="MPX-4_MAP">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/MPX-4_MAP.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/kicad6-libraries/MPX-4_MAP.kicad_sym</uri>
     </library>
     <library logical="chips">
-      <uri>/home/runner/work/uaefi/uaefi/../kicad6-libraries/chips.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/../kicad6-libraries/chips.kicad_sym</uri>
     </library>
     <library logical="hellen-one-can-0.1">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/can/0.1/can.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/can/0.1/can.kicad_sym</uri>
     </library>
     <library logical="hellen-one-common">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
     </library>
     <library logical="hellen-one-knock-0.2">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
     </library>
     <library logical="hellen-one-mega-mcu100-0.3">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
     </library>
     <library logical="hellen-one-power_12and5V">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/power_12and5V/0.2/power_12and5V.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/power_12and5V/0.2/power_12and5V.kicad_sym</uri>
     </library>
     <library logical="hellen-one-vr-discrete-0.5">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/vr-discrete/0.5/vr-discrete.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/vr-discrete/0.5/vr-discrete.kicad_sym</uri>
     </library>
     <library logical="hellen-one-wbo-0.5">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/wbo/0.5/wbo.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/wbo/0.5/wbo.kicad_sym</uri>
     </library>
     <library logical="misc">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/misc.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/kicad6-libraries/misc.kicad_sym</uri>
     </library>
     <library logical="rusefi_logo">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/rusefi_logo.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/kicad6-libraries/rusefi_logo.kicad_sym</uri>
     </library>
     <library logical="vr-max9924">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
+      <uri>/home/runner/work/MST-01A/MST-01A/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
